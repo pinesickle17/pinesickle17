@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pinesickle17
+- 👋 Hi, I’m Pujono Halim Rachmawan
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Analysis Projects
